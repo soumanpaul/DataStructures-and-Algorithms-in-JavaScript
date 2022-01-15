@@ -12,3 +12,9 @@
 - Heap
 - Graph
 - Trie
+
+# Contribution
+
+- Feel free to add new data structure and algorithms.
+
+Licence: MIT
